@@ -74,5 +74,9 @@ exit
 - `|expr|` returns an integer length; when used inside larger expressions, it’s substituted into the text before parsing.
 
 ## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-MIT
+## Authors
+
+- Emman-sys
+- Ceilemarie
